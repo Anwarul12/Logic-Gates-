@@ -1,0 +1,22 @@
+Logic gates are very small but an important  part of computers they are working on binary numberes(0 or 1).
+FIrst we give 1 or 2 input to a gate then it will give us a single outpur,Diffrent types of gates gives diffrent types of output.
+There are diffrent types of gates like AND,OR,NOT etc. These three are Important gates, we can make some other gates by using these gates.
+Example- NAND gate is combination of AND and NOT.
+Logic Gates and their truth tables---
+For AND-
+A(first Intput)      B(Second Intput)   A AND B(Output)
+0                       0                 0
+0                       1                 0
+1                       0                 0
+1                       1                 1
+For OR-
+A(first Intput)      B(Second Intput)   A OR B(Output)
+0                       0                 0
+0                       1                 1
+1                       0                 1
+1                       1                 1
+For NOT-
+A(Intput)      NOT A(Output)
+0                      1              
+1                      0               
+              
